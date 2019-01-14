@@ -1,0 +1,37 @@
+.form-group {
+    margin-top: 5%;
+    margin-left: 10%; /* Отступ слева */
+    margin-right: 10%; /* Отступ справа */
+    background: #7fc6ff; /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
+}
+.btn-primary {
+    margin-top: 1%;
+    margin-left: 30%; /* Отступ слева */
+    margin-right: 30%; /* Отступ справа */
+   width: 30%;
+    padding: 10px; /* Поля вокруг текста */
+}
+
+
+
+.panel .panel-default .panel-heading {
+
+    margin-left: 10%; /* Отступ слева */
+    margin-right: 10%; /* Отступ справа */
+
+}
+.panel-author .panel-publisher{
+
+    left: 350px;
+}
+
+.panel-heading .panel-title{
+
+    text-align: center;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    margin-right: 20%;
+
+}
